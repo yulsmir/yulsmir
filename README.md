@@ -6,11 +6,14 @@
 - 😻 Programming is awesoooome!
 - 🔬 Science is amazing!
 
-### Portfolio links
-- https://github.com/yulsmir/my-portfolio-page
-- https://yulsmir.github.io/my-portfolio-page/
+### Portfolio - https://github.com/yulsmir/my-portfolio-page
 
-### Connect with me:
+### Recent projects
+1. Todo app backend - https://github.com/yulsmir/foocoding/tree/master/Databases/Week3/todo-app
+2. Responsive blog - https://github.com/yulsmir/responsive-blog
+3. Vanilla JS - https://github.com/yulsmir/javascript-vanilla
+   
+### Connect with me
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/smirnovajuliar#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/smirnovajulia#gh-dark-mode-only)
 &nbsp;&nbsp;

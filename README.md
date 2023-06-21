@@ -11,7 +11,7 @@
 1. Todo app backend(deployed with fly.io, mysql as db) - https://github.com/yulsmir/foocoding/tree/master/Databases/Week3/todo-app
 2. Responsive blog - https://github.com/yulsmir/responsive-blog
 3. Vanilla JS - https://github.com/yulsmir/javascript-vanilla
-
+4. Node mailer - https://github.com/yulsmir/node-mailer
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,docker,vscode,git,github)](https://skillicons.dev)
 

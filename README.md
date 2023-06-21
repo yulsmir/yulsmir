@@ -5,7 +5,7 @@
 - 😻 Programming is awesoooome!
 - 🔬 Science is amazing!
 
-### Recent projects
+## Recent projects
 
 ## Frontend
 | App | Description | Stack | Link |

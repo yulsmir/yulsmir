@@ -10,16 +10,16 @@
 ## Frontend
 | App | Description | Stack | Link |
 |------------|-------------|-----|------|
-| Portfolio | Single page application portfolio page | HTML5, CSS3, JavaScript | https://github.com/yulsmir/my-portfolio-page |
-| Responsive blog | A simple single page app blog with parallax scrolling | HTML5, CSS3, JavaScript | https://github.com/yulsmir/responsive-blog |
-| Vanilla JS frontend projetcs | Just a simple playaround with JS for a frontend | HTML5, CSS3, JavaScript | https://github.com/yulsmir/javascript-vanilla
+| Portfolio | Single page application portfolio page | HTML5, CSS3, JavaScript | [![github link](https://skillicons.dev/icons?i=github)](https://github.com/yulsmir/my-portfolio-page) |
+| Responsive blog | A simple single page app blog with parallax scrolling | HTML5, CSS3, JavaScript | [![github link](https://skillicons.dev/icons?i=github)](https://github.com/yulsmir/responsive-blog) |
+| Vanilla JS frontend projetcs | Just a simple playaround with JS for a frontend | HTML5, CSS3, JavaScript | [![github link](https://skillicons.dev/icons?i=github)](https://github.com/yulsmir/javascript-vanilla)
 
 
 ## Backend
 | App | Description | Stack | Link |
 |------------|-------------|-----|------|
-|Todo   app| Backend implementation of todoapp deployed with fly.io| Node.js, MySQL, Docker, fly.io, expressjs | https://github.com/yulsmir/foocoding/tree/master/Databases/Week3/todo-app|
-| Node mailer | Email sending backend implementation | nodemailer, ethereal.email, express.js | https://github.com/yulsmir/node-mailer
+|Todo   app| Backend implementation of todoapp deployed with fly.io| Node.js, MySQL, Docker, fly.io, expressjs | [![github link](https://skillicons.dev/icons?i=github)](https://github.com/yulsmir/foocoding/tree/master/Databases/Week3/todo-app)|
+| Node mailer | Email sending backend implementation | nodemailer, ethereal.email, express.js | [![github link](https://skillicons.dev/icons?i=github)](https://github.com/yulsmir/node-mailer)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,docker,vscode,git,github)](https://skillicons.dev)
 

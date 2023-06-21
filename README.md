@@ -5,12 +5,11 @@
 - 😻 Programming is awesoooome!
 - 🔬 Science is amazing!
 
-### Portfolio - https://github.com/yulsmir/my-portfolio-page
-----------------------------
 ### Recent projects
 
 | App | Description | Stack | Link |
 |------------|-------------|-----|------|
+| Portfolio | Single page application portfolio page | HTML5, CSS3, JavaScript | https://github.com/yulsmir/my-portfolio-page |
 |Todo   app| Backend implementation of todoapp deployed with fly.io| Node.js, MySQL, Docker, fly.io, expressjs | https://github.com/yulsmir/foocoding/tree/master/Databases/Week3/todo-app|
 | Responsive blog | A simple single page app blog with parallax scrolling | HTML5, CSS3, JavaScript | https://github.com/yulsmir/responsive-blog |
 | Vanilla JS frontend projetcs | Just a simple playaround with JS for a frontend | HTML5, CSS3, JavaScript | https://github.com/yulsmir/javascript-vanilla

@@ -21,7 +21,7 @@
 |Todo   app| Backend implementation of todoapp deployed with fly.io| Node.js, MySQL, Docker, fly.io, expressjs | [![github link](https://skillicons.dev/icons?i=github)](https://github.com/yulsmir/foocoding/tree/master/Databases/Week3/todo-app)|
 | Node mailer | Email sending backend implementation | nodemailer, ethereal.email, express.js | [![github link](https://skillicons.dev/icons?i=github)](https://github.com/yulsmir/node-mailer)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,docker,vscode,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,docker,vscode,git,github,heroku)](https://skillicons.dev)
 
 ### Connect with me
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/smirnovajuliar#gh-light-mode-only)

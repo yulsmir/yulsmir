@@ -1,5 +1,4 @@
 # Hi there! I'm Yuliia and I enjoy programming👋
-- 🌱 I’m a Fullstack Developer - Node.js, React.js.
 - 👯 I’m always open to working with motivated and passionate people.
 - 🥅 Goals: Learn more about Web Development, AI, contribute to open source.
 - 😻 Programming is awesoooome!

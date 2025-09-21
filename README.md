@@ -7,6 +7,8 @@ Unreal Engine 5
 |Hardcore 3dPlatformer | UE5, PCG | Game is procedurally generated. Player loses if his health reduces to 0 by getting damage from enemies' bombs or if the player falls off the platform lower than the death point location. |UE, Blueprints, C++. PCG, Git|[project](https://yuliiasmirnova.itch.io/hardcore-tennis-platformer)|
 |Orbit - A way home| UE5, PCG | A proceduraly generated environment + procedural planets with customisation | UE5, PCG, Splines, C++, Blueprints|[project](https://yuliiasmirnova.itch.io/orbit-a-way-home)|
 
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,git,github,clion,unity,unreal)](https://skillicons.dev)
+
 -------------------------------------
 Full Stack Web development, JS, React
 -------------------------------------

@@ -1,7 +1,17 @@
 ## Recent projects
-
+-------------------------------------
+Unreal Engine 5
+-------------------------------------
 | App | Focus| Description | Stack | Link |
-|--------|----|-------------|-----|------|
+|--------|----|-------------|-----|------------|
+|Hardcore 3dPlatformer | UE5, PCG | Game is procedurally generated. Player loses if his health reduces to 0 by getting damage from enemies' bombs or if the player falls off the platform lower than the death point location. |UE, Blueprints, C++. PCG, Git|[project](https://yuliiasmirnova.itch.io/hardcore-tennis-platformer)|
+|Orbit - A way home| UE5, PCG | A proceduraally generated environemnt + procedural planets with customisation | UE5, PC, Splines, C++, Blueprints|[project](https://yuliiasmirnova.itch.io/orbit-a-way-home)|
+
+-------------------------------------
+Web Development, Frontend, JS
+-------------------------------------
+| App | Focus| Description | Stack | Link |
+|--------|----|-------------|-----|------------|
 | Portfolio |Frontend| Single page application portfolio page | HTML5, CSS3, JavaScript | [![github link](https://skillicons.dev/icons?i=github)](https://github.com/yulsmir/my-portfolio-page) |
 | Responsive blog |Frontend| A simple single page app blog with parallax scrolling | HTML5, CSS3, JavaScript | [![github link](https://skillicons.dev/icons?i=github)](https://github.com/yulsmir/responsive-blog) |
 | Vanilla JS frontend projetcs |Frontend| Just a simple playaround with JS for a frontend | HTML5, CSS3, JavaScript | [![github link](https://skillicons.dev/icons?i=github)](https://github.com/yulsmir/javascript-vanilla)

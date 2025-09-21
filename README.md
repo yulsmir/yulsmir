@@ -8,7 +8,7 @@ Unreal Engine 5
 |Orbit - A way home| UE5, PCG | A proceduraly generated environment + procedural planets with customisation | UE5, PCG, Splines, C++, Blueprints|[project](https://yuliiasmirnova.itch.io/orbit-a-way-home)|
 
 -------------------------------------
-Web Development, Frontend, JS
+Full Stack Web development, JS, React
 -------------------------------------
 | App | Focus| Description | Stack | Link |
 |--------|----|-------------|-----|------------|

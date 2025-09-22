@@ -2,12 +2,12 @@
 -------------------------------------
 Unreal Engine 5
 -------------------------------------
-| App | Focus| Description | Stack | Platform | Link |
-|--------|----|-------------|-----|-----|------------|
-|Hardcore 3dPlatformer | UE5, PCG | Game is procedurally generated. Player loses if his health reduces to 0 by getting damage from enemies' bombs or if the player falls off the platform lower than the death point location. |UE, Blueprints, C++. PCG, Git| Windows | [personal project link](https://yuliiasmirnova.itch.io/hardcore-tennis-platformer)|
-|Orbit - A way home| UE5, PCG | A proceduraly generated environment + procedural planets with customisation | UE5, PCG, Splines, C++, Blueprints | Windows | [group project link ](https://yuliiasmirnova.itch.io/orbit-a-way-home)|
-| Viking Races - Prototype - Android game | EU5, Mobile input, VFX, Custom mapping, Gyroscope, Camera shake | The player controls a viking racing car along a predefinite track.The race has a timer that the player has to beat to win the race.  | UE5, C++, Blueprints | Android | [group project link](https://yuliiasmirnova.itch.io/viking-races) |
-| VR Prototype - Puzzle | UE, VR, Oculus 2 / Meta Quest 2 | The player is immersed in a VR environment where they solve a puzzle by physically picking up cubes and placing them on matching platforms. Each cube has a unique symbol tag, and each platform expects a specific symbol. When a cube is correctly matched with its platform, it is registered as solved. Once all platforms are solved, a door opens, allowing the player to progress. | UE5, Blueprints, C++ | Windows | [group project link](https://yuliiasmirnova.itch.io/vr-prototype-puzzle)|
+| App | Focus| Description | Stack | Platform | Project type | Link |
+|--------|----|-------------|-----|-----|-----|------------|
+|Hardcore 3dPlatformer | UE5, PCG | Game is procedurally generated. Player loses if his health reduces to 0 by getting damage from enemies' bombs or if the player falls off the platform lower than the death point location. |UE, Blueprints, C++. PCG, Git| Windows | personal project | [itch.io link](https://yuliiasmirnova.itch.io/hardcore-tennis-platformer)|
+|Orbit - A way home| UE5, PCG | A proceduraly generated environment + procedural planets with customisation | UE5, PCG, Splines, C++, Blueprints, Diversion | Windows | group project  |[link ](https://yuliiasmirnova.itch.io/orbit-a-way-home)|
+| Viking Races - Prototype - Android game | U55, Mobile input, VFX, Custom mapping, Gyroscope, Camera shake | The player controls a viking racing car along a predefinite track.The race has a timer that the player has to beat to win the race.  | UE5, C++, Blueprints, Diversion | Android | group project | [itch.io link](https://yuliiasmirnova.itch.io/viking-races) |
+| VR Prototype - Puzzle | UE5, VR, Oculus 2 / Meta Quest 2 | The player is immersed in a VR environment where they solve a puzzle by physically picking up cubes and placing them on matching platforms. Each cube has a unique symbol tag, and each platform expects a specific symbol. When a cube is correctly matched with its platform, it is registered as solved. Once all platforms are solved, a door opens, allowing the player to progress. | UE5, Blueprints, C++, Diversion | Windows | group project | [itch.io link](https://yuliiasmirnova.itch.io/vr-prototype-puzzle)|
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,git,github,clion,rider,vscode,unity,unreal)](https://skillicons.dev)
 

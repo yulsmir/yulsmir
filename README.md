@@ -4,7 +4,7 @@ Unreal Engine 5
 -------------------------------------
 | App | Focus| Description | Stack | Platform | Project type | Year | Link |
 |--------|----|-------------|-----|-----|-----|-----|------------|
-| Fox Simulator | Unity, Inventory, Quests, PlayerStats, PlayerController, Modular development | Fox simulator is a third-person survival-adventure. | Unity, C#| Windows | personal study project | 2025 | [itch.io ](https://yuli-games.itch.io/fox-simulator)|
+| Fox Simulator | Unity, Inventory, Quests, PlayerStats, PlayerController, Modular development, PCG Environment | Fox simulator is a third-person survival-adventure. | Unity, C#| Windows | personal study project | 2025 | [itch.io ](https://yuli-games.itch.io/fox-simulator)|
 |Hardcore 3dPlatformer | UE5, PCG | My first game in UE5. Game is procedurally generated. Player loses if his health reduces to 0 by getting damage from enemies' bombs or if the player falls off the platform lower than the death point location. |UE, Blueprints, C++. PCG, Git| Windows | personal study project | 2025 | [itch.io](https://yuliiasmirnova.itch.io/hardcore-tennis-platformer)|
 |Orbit - A way home| UE5, PCG | A proceduraly generated environment + procedural planets with customisation | UE5, PCG, Splines, C++, Blueprints, Diversion | Windows | group study project  | 2025 | [itch.io ](https://yuliiasmirnova.itch.io/orbit-a-way-home)|
 | Viking Races - Prototype - Android game | U55, Mobile input, VFX, Custom mapping, Gyroscope, Camera shake | The player controls a viking racing car along a predefinite track.The race has a timer that the player has to beat to win the race.  | UE5, C++, Blueprints, Diversion | Android | group study project | 2025 | [itch.io](https://yuliiasmirnova.itch.io/viking-races) |

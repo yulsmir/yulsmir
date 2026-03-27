@@ -1,7 +1,5 @@
 ## Games
 -------------------------------------
-Unreal Engine 5
--------------------------------------
 | App | Focus| Description | Stack | Platform | Project type | Year | Link |
 |--------|----|-------------|-----|-----|-----|-----|------------|
 | Fox Simulator | Unity, Inventory, Quests, PlayerStats, PlayerController, Modular development, PCG Environment | Fox simulator is a third-person survival-adventure. | Unity, C#| Windows | personal study project | 2025 | [itch.io ](https://yu-gamess.itch.io/fox-simulator)|

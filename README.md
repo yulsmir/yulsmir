@@ -2,7 +2,7 @@
 -------------------------------------
 | Image | App | Focus| Description | Stack | Platform | Project type | Year | Link |
 | ---------- |--------|----|-------------|-----|-----|-----|-----|------------|
-| ![alt text][puzzle] | Puzzle Platformer | Gameplay Systems, Smooth gameplay | A puzzle platformer with exciting gameplay | Unity, C# | Windows, MacOS, Linux | Indie Game | 2026 | Coming Soon |
+| ![alt text][puzzle] | Puzzle Platformer | Gameplay Systems, Smooth camera, multi-platform build | A puzzle platformer with exciting gameplay | Unity, C# | Windows, MacOS, Linux | Indie Game | 2026 | Coming Soon |
 | ![alt text][nono]| Nonogram | Unity, multiple platforms, steam achievements, 2d| Minimalistic relaxing nonogram puzzle without any time pressure. | Unity, C#, Steam |Windows, MacOS, Linux | Indie Game | 2026 | [itch.io ](https://yu-gamess.itch.io/nonogram)[Steam](https://store.steampowered.com/app/4323810/nonogram/)|
 | ![alt text][fox]| Fox Simulator | Unity, Inventory, Quests, PlayerStats, PlayerController, Modular development, PCG Environment | Fox simulator is a third-person survival-adventure. | Unity, C#| Windows | personal study project | 2025 | [itch.io ](https://yu-gamess.itch.io/fox-simulator)|
 | ![alt text][tennis] | Hardcore 3dPlatformer | UE5, PCG | Procedural level, endless runner |UE, Blueprints, C++. PCG, Git| Windows | personal study project | 2025 | [itch.io](https://yu-gamess.itch.io/hardcore-tennis-platformer)|

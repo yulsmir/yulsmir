@@ -2,6 +2,7 @@
 -------------------------------------
 | App | Focus| Description | Stack | Platform | Project type | Year | Link |
 | --------|----|-------------|-----|-----|-----|-----|------------|
+| 2D Puzzles| Showcase | Match 2, Sliding Puzzle, Connect colors | Unity, C# | Windows, MacOS, Linux | Indie Game | 2026 | [Itch.io](https://yu-gamess.itch.io/2d-puzzles-showcase) |
 | Puzzle Platformer | Gameplay Systems, Smooth camera, multi-platform build | A puzzle platformer with exciting gameplay | Unity, C# | Windows, MacOS, Linux | Indie Game | 2026 | Coming Soon |
 | Nonogram | Unity, multiple platforms, steam achievements, 2d| Minimalistic relaxing nonogram puzzle without any time pressure. | Unity, C#, Steam |Windows, MacOS, Linux | Indie Game | 2026 | [itch.io ](https://yu-gamess.itch.io/nonogram)[Steam](https://store.steampowered.com/app/4323810/nonogram/)|
 | Fox Simulator | Unity, Inventory, Quests, PlayerStats, PlayerController, Modular development, PCG Environment | Fox simulator is a third-person survival-adventure. | Unity, C#| Windows | personal study project | 2025 | [itch.io ](https://yu-gamess.itch.io/fox-simulator)|
